@@ -13,7 +13,7 @@
     - [javascript basic Quiz](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/javascriptBasicQuiz.md)
     - [scopes and closures](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/scope-and-closures.md)
     - [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
-    - Array method
+    - [Array method](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/array_method.md)
     - Promise
     - scope chain, prototype
   - DOM
@@ -76,6 +76,9 @@
 #### [asynchronous and callback](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/asynchronous-and-callback.md)
 - 비동기와 콜백메서드를 이해한다.
 - promise, async, await의 필요성에 대해 이해한다.
+
+#### [Array method](https://github.com/degan85/abc_javascript_study/blob/master/doc/basic/array_method.md)
+- javascript에서 자주 사용하는 Array method에 대해 정리한다.
 
 ---
 
